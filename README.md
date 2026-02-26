@@ -1,1 +1,1 @@
-# LeetCode-and-HackerRank-Programs
+My LeetCode and HackerRank submissions 
